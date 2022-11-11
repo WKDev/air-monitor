@@ -1,0 +1,4 @@
+#Wed Nov 02 11:28:38 KST 2022
+base.0=/Users/chanhyeokson/StudioProjects/AirMonitor/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

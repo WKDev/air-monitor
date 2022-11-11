@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d84315</color>
+    <color name="colorAccent">#ff6e40</color>
+
+    <color name="colorConnectedText">#00FF00</color>
+
+
+    <color name="colorSendText">#82CAFF</color>
+    <color name="colorStatusText">#FFDB58</color>
+    <color name="colorConnectingText">#FFDB58</color>
+    <color name="colorDisconnectedText">#FF0000</color>
+
+    <color name="particleVeryGood">#4343FD</color>
+    <color name="particleGood">#3BDD2F</color>
+    <color name="particleNone">#FC8B00</color>
+    <color name="particleBad">#E621C5</color>
+    <color name="particleVeryBad">#F60000</color>
+
+
+
+
+
+</resources>

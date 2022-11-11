@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Air Monitor</string>
+    <string name="devices">Bluetooth Devices</string>
+
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">앱을 사용하기 위해 블루투스 권한이 필요합니다. 다음 대화상자에서 권한을 허용해주세요.</string>
+    <string name="bluetooth_permission_denied">이 앱에 대한 블루투스 권한이 영구적으로 거부되었습니다. \"%s\"</string>
+    <string name="off">Off</string>
+    <string name="auto">Auto</string>
+    <string name="low">Low</string>
+    <string name="medium">Mid</string>
+    <string name="high">High</string>
+</resources>

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/layout_fragment_terminal.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/layout_device_list_header.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/layout/device_list_header.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-hdpi_ic_notification.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xxxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xxxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-mdpi_ic_notification.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.wklabs.air_monitor.app-merged_res-25:/layout_fragment_terminal.xml.flat",
+        "source": "com.wklabs.air_monitor.app-main-27:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable_ic_send_white_24dp.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable/ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable_ic_delete_white_24dp.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable/ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/menu_menu_devices.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/menu/menu_devices.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-mdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-mdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/drawable-hdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/drawable-hdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/layout_device_list_item.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/layout/device_list_item.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/menu_menu_terminal.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/menu/menu_terminal.xml"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/Users/chanhyeokson/.gradle/daemon/7.4/com.wklabs.air_monitor.app-main-27:/layout/activity_main.xml"
+    }
+]
